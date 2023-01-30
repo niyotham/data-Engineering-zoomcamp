@@ -36,7 +36,7 @@ Simple example
 
 
 Try this code to run the image ubuntu
-``` docker run -it ubuntu bash``
+``` docker run -it ubuntu bash```
 Experiment with socker by running the python image with the tag or version 3.9
 ```docker run -it python:3.9  ```
 
